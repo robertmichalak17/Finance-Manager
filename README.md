@@ -7,8 +7,10 @@ It was built with a command-line interface (CLI).
 
 # Screenshots
 ![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/first_screenshot.jpg)
+Main panel
 
 ![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/second_screenshot.jpg)
+Registration panel
 
 ![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/third_screenshot.jpg)
 
