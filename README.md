@@ -14,4 +14,4 @@ It was built with a command-line interface (CLI).
 
 ![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/forth_screenshot.jpg)
 
-![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/fifth_screenshot.jpg)
+![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/fith_screenshot.jpg)
