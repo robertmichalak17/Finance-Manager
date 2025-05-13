@@ -6,11 +6,9 @@ Developed in C++, the application ensures high performance and can handle large 
 It was built with a command-line interface (CLI).
 
 # Screenshots
-Main panel
-![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/first_screenshot.jpg)
+![Main panel](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/first_screenshot.jpg)
 
-![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/second_screenshot.jpg)
-Registration panel
+![Registration panel](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/second_screenshot.jpg)
 
 ![image-alt](https://github.com/robertmichalak17/Finance-Manager/blob/dc8fba4c9b495baabe482841129760a6878dc867/third_screenshot.jpg)
 
